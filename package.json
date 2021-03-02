@@ -1,0 +1,26 @@
+{
+  "name": "phone-screen-halp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halphq/phone-screen-halp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/halphq/phone-screen-halp/issues"
+  },
+  "homepage": "https://github.com/halphq/phone-screen-halp#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.6.1",
+    "underscore": "^1.12.0"
+  }
+}
